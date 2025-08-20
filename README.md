@@ -1,4 +1,4 @@
-# Aprendizaje por refuerzo I  
+# Aprendizaje por Refuerzo I  
 
 <br>  
 
@@ -22,15 +22,15 @@
 <table border="0">
   <tr valign="center">
     <td>Consigna</td>
-    <td>uba-mia-ar1-dp.pdf</td>
+    <td><a href="./uba-mia-ar1-dp.pdf" target="_blank">uba-mia-ar1-dp.pdf</a></td>
   </tr>
   <tr valign="center">
     <td>Código fuente</td>
-    <td>RL1_16Co2024_a1618.ipynb</td>
+    <td><a href="./RL1_16Co2024_a1618.ipynb" target="_blank">RL1_16Co2024_a1618.ipynb</a></td>
   </tr>
     <tr valign="center">
     <td>Videos de los resultados</td>
-    <td>Ejemplos MP4</td>
+    <td><a href="./mp4/" target="_blank">Ejemplos MP4</a></td>
   </tr>
 </table>
 <br>
