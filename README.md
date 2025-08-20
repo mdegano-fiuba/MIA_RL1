@@ -11,10 +11,9 @@
 <br>
 
 * **Referencias**:  <br>
-<a href="https://github.com/aear-uba/ar1/tree/ar1-2025-b3" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/Aprendizaje%20por%20Refuerzo%201%20-%20MIA%20-%20UBA-B9E1F5?style=flat-square&logo=github"></a>
-<br>
-<a href="https://gymnasium.farama.org/index.html" target="_blank"><img alt="Gymnasium" src="https://img.shields.io/badge/Gymnasium%20Documentation-B9E1F5?style=flat-square&logo=python"></a>
-
+* <a href="https://github.com/aear-uba/ar1/tree/ar1-2025-b3" target="_blank">Material de clase</a>
+  
+* <a href="https://gymnasium.farama.org/index.html" target="_blank">Gymnasium Documentation</a>
 <br><br>
 
 ## *Desafío práctico*
