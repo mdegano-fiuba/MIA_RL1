@@ -26,7 +26,8 @@
   </tr>
   <tr valign="center">
     <td>Código fuente</td>
-    <td><a href="./RL1_16Co2024_a1618.ipynb" target="_blank">RL1_16Co2024_a1618.ipynb</a></td>
+    <td><a href="./RL1_16Co2024_a1618.ipynb" target="_blank">RL1_16Co2024_a1618.ipynb</a> 
+      [<a href="https://colab.research.google.com/drive/1nLCNE4OZbgWfIictUQUFr_Xbe5vzHdyT?usp=sharing" target="_blank"><i></i>Google Colab</i></a>]</td>
   </tr>
     <tr valign="center">
     <td>Videos de los resultados</td>
@@ -41,7 +42,7 @@
 ## Entregable
 <table border="0">
   <tr valign="center">
-    <td><img src="../img/pdf.png" alt="PDF" height="40"></td>
+    <td><img src="./img/pdf.png" alt="PDF" height="40"></td>
     <td><a href="./uba-mia-ar1-dp_a1618.pdf" target="_blank">Informe PDF</a></td>
   </tr>
 </table>
