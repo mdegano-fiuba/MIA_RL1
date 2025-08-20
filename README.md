@@ -41,7 +41,7 @@
 ## Entregable
 <table border="0">
   <tr valign="center">
-    <td><img src="../imgs/pdf.png" alt="PDF" height="40"></td>
+    <td><img src="../img/pdf.png" alt="PDF" height="40"></td>
     <td><a href="./uba-mia-ar1-dp_a1618.pdf" target="_blank">Informe PDF</a></td>
   </tr>
 </table>
