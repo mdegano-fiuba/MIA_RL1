@@ -11,9 +11,9 @@
 <br>
 
 * **Referencias**:  <br>
-* <a href="https://github.com/aear-uba/ar1/tree/ar1-2025-b3" target="_blank">Material de clase</a>
+  * <a href="https://github.com/aear-uba/ar1/tree/ar1-2025-b3" target="_blank">Material de clase</a>
   
-* <a href="https://gymnasium.farama.org/index.html" target="_blank">Gymnasium Documentation</a>
+  * <a href="https://gymnasium.farama.org/index.html" target="_blank">Gymnasium Documentation</a>
 <br><br>
 
 ## *Desafío práctico*
